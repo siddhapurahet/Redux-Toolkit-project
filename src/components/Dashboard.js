@@ -1,6 +1,10 @@
+import Products from "./Products";
+
 const Dashboard = () => {
     return (
-        <h1>Dashboard</h1>
+        <>
+            <Products/>
+        </>
     )
 };
 
